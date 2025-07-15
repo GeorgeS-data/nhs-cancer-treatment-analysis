@@ -20,7 +20,7 @@ The report contains five interactive pages:
 
 ### 1. Summary
 
-Provides a national overview of treatment performance between 2021 and 2024:
+Provides a national overview of treatment performance between July 2021 and July 2024:
 
 - **KPI cards**:
   - Absolute change in % treated within 62 days (2021–2024)
@@ -42,7 +42,8 @@ Provides a national overview of treatment performance between 2021 and 2024:
 
 ### 2. Dive Into ICBs
 
-Allows comparison of treatment performance by ICB and year. Showcases how the total number of patients treated doesn't affect the percentage on patients treated within 62 days. Showcases how despite nationwide doubling in cancer patients being treated in July 2024 (due to increased screening) there was still an improvement in overall percentage of cancer patients being treated within 62 days:
+Explores trends at an individual ICB level. This dashboard shows that a higher number of treated patients doesn’t necessarily reduce performance. Notably, July 2024 saw a sharp rise in patients treated (due to increased screening), yet performance improved:
+
 
 - **Line graphs**:
   - % of patients treated within 62 days by ICB (2021–2024)
@@ -60,7 +61,7 @@ Allows comparison of treatment performance by ICB and year. Showcases how the to
 
 ### 3. Percentage Matrix
 
-Compares all ICBs side by side across the 4 years. Showcasing how most tend to drop from 2021 to 2022 and then improve over 2022 to 2024. Sliders placed to be able to interact with dashboard to see which ICB's performed best each year, and how that stood up over other years:
+Compares all ICBs side by side across the 4 years, showcasing how most tend to drop from 2021 to 2022 and then improve over 2022 to 2024. Sliders placed to be able to interact with dashboard and see which ICB's performed best each year, exploring how that stood up over other years:
 
 - **Clustered bar chart**:  
   Displays % treated within 62 days for each ICB by year
@@ -148,13 +149,13 @@ Similar to the previous page, but based on proportional changes:
 ## Notes
 
 - **Why July only?**  
-  July was the only month consistently available across all four years, which avoids seasonal variation and allows fair comparison year-on-year.
+  July was one of the only months consistently available across all four years. Using the same month each year avoids seasonal bias and allows a fair comparison.
 
 - **ICB policy context:**  
   ICBs replaced CCGs in July 2022, so this project looks at performance before and after that change.
 
 - **Most improved ICB's:**  
-  ICBs that showed improvement in percentage of patients treated within the 62 day limit were also shown to be the worst performers overall, this is most likely due to them having more rrom for improvement and pushes to try and make them perform better. Interestingly one of the top performers overall in NHS Suffolk and North East Essex Integrated Care Board did see improvement from July 2021 to 2024 (albeit small). An interesting next step would be to see what they have done to try and find this improvement when already acting at one of the hightest national averages.
+  ICBs that showed improvement in percentage of patients treated within the 62 day limit were also shown to be the worst performers overall, this is most likely due to them having more room for improvement and pushes to try and make them perform better. Interestingly one of the top performers overall in NHS Suffolk and North East Essex Integrated Care Board did see improvement from July 2021 to 2024 (albeit small). An interesting next step would be to see what they have done to try and find this improvement when already acting at one of the hightest national averages.
 
 - **Limitations:**  
   Only July data is included. A follow-up project will bring in all months via SQL for a full trend analysis.
