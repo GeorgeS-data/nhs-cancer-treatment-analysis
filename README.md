@@ -11,7 +11,6 @@ This Power BI project analyses NHS cancer treatment wait times across Integrated
 - Highlight best and worst performers
 - Present insights clearly using interactive dashboards
 
----
 
 ---
 
@@ -99,6 +98,7 @@ Similar to the previous page, but based on proportional changes:
 - **Slicer**:
   - Sort by any year, total relative change or by the average percentage of patients treated withing 62 days across July of all years
 
+---
 
 ## File Structure
 📂 Dashboard PDF/ → PDF report
@@ -116,11 +116,11 @@ Similar to the previous page, but based on proportional changes:
 
 | Summary | ICB Comparison | Matrix |
 |---------|----------------|--------|
-| ![Summary](images/01_summary.png) | ![ICBs](images/02_dive_into_icbs.gif) | ![Matrix](images/03_percentage_matrix.gif) |
+| ![Summary](images/01-NHS Cancer Wait Times Analysis Summary.png) | ![ICBs](images/02-dive_into_icb's.gif) | ![Matrix](images/03-Percentage_matrix.gif) |
 
 | Absolute change | Percentage change |
 |----------------------|------------------------|
-| ![Abs](images/04_absolute_improvement.gif) | ![Pct](images/05_percentage_improvement.gif) |
+| ![Abs](images/04-Absolute_Percentage_Change_Visual.gif) | ![Pct](images/05_realative_percentage_chance_visual.gif) |
 
 ---
 
