@@ -176,7 +176,7 @@ Similar to the previous page, but based on proportional changes:
 ---
 ## Download Dashboard (Interactive)
 
-[Click here to view the dashboard in PowerBI](NHS%Cancer%Wait%Times%Analysis%Dashboard.pbix)
+[Click here to view the dashboard in PowerBI](NHS%20Cancer%20Wait%20Times%20Analysis%20Dashboard.pbix)
 
 ---
 ## Data Source
