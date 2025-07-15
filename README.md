@@ -101,13 +101,13 @@ Similar to the previous page, but based on proportional changes:
 ---
 
 ## File Structure
-📂 Dashboard PDF/ → PDF report
-📂 data/
-├── clean/ → Cleaned & Dombined Data
-└── raw/ → Original NHS Excel files
-📂 Images/ → Screenshots and dashboard GIFs
-📄 nhs_dashboard.pbix
-📄 README.md
+-📂 Dashboard PDF/ → PDF report
+-📂 data/
+ - clean/ → Cleaned & Dombined Data
+ - raw/ → Original NHS Excel files
+-📂 Images/ → Screenshots and dashboard GIFs
+-📄 nhs_dashboard.pbix
+-📄 README.md
 
 
 ---
@@ -116,11 +116,11 @@ Similar to the previous page, but based on proportional changes:
 
 | Summary | ICB Comparison | Matrix |
 |---------|----------------|--------|
-| ![Summary](images/01-NHS Cancer Wait Times Analysis Summary.png) | ![ICBs](images/02-dive_into_icb's.gif) | ![Matrix](images/03-Percentage_matrix.gif) |
+| ![Summary](Images/01_NHS_Cancer_Wait_Times_Analysis_Summary.png) | ![ICBs](Images/02_Dive_into_ICB's.gif) | ![Matrix](Images/03_Percentage_Matrix.gif) |
 
 | Absolute change | Percentage change |
 |----------------------|------------------------|
-| ![Abs](images/04-Absolute_Percentage_Change_Visual.gif) | ![Pct](images/05_realative_percentage_chance_visual.gif) |
+| ![Abs](Images/04_Absolute_Percentage_Change_Visual.gif) | ![Pct](Images/05_Relative_Percentage_Change_Visual.gif) |
 
 ---
 
