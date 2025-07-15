@@ -102,11 +102,16 @@ Similar to the previous page, but based on proportional changes:
 
 ## File Structure
 -📂 Dashboard PDF/ → PDF report
+
 -📂 data/
+
  - clean/ → Cleaned & Dombined Data
  - raw/ → Original NHS Excel files
+
 -📂 Images/ → Screenshots and dashboard GIFs
+
 -📄 nhs_dashboard.pbix
+
 -📄 README.md
 
 
@@ -114,13 +119,29 @@ Similar to the previous page, but based on proportional changes:
 
 ## Screenshots & GIFs
 
-| Summary | ICB Comparison | Matrix |
-|---------|----------------|--------|
-| ![Summary](Images/01_NHS_Cancer_Wait_Times_Analysis_Summary.png) | ![ICBs](Images/02_Dive_into_ICB's.gif) | ![Matrix](Images/03_Percentage_Matrix.gif) |
+### 1. Summary
+![Summary](Images/01_NHS_Cancer_Wait_Times_Analysis_Summary.png)
 
-| Absolute change | Percentage change |
-|----------------------|------------------------|
-| ![Abs](Images/04_Absolute_Percentage_Change_Visual.gif) | ![Pct](Images/05_Relative_Percentage_Change_Visual.gif) |
+---
+
+### 2. Dive into ICBs
+![Dive into ICBs](Images/02_Dive_into_ICB's.gif)
+
+---
+
+### 3. Percentage Matrix
+![Percentage Matrix](Images/03_Percentage_Matrix.gif)
+
+---
+
+### 4. Absolute Improvement
+![Absolute Change](Images/04_Absolute_Percentage_Change_Visual.gif)
+
+---
+
+### 5. Relative Percentage Improvement
+![Percentage Change](Images/05_Relative_Percentage_Change_Visual.gif)
+
 
 ---
 
@@ -150,10 +171,14 @@ Similar to the previous page, but based on proportional changes:
 
 ## Download PDF Report
 
-[Click here to view the dashboard PDF](exports/dashboard_report.pdf)
+[Click here to view the dashboard PDF](Dashboard_PDF/NHS%20cancer%20wait%20times%20analysis%20pdf.pdf)
 
 ---
+## Download Dashboard (Interactive)
 
+[Click here to view the dashboard in PowerBI](NHS%Cancer%Wait%Times%Analysis%Dashboard.pbix)
+
+---
 ## Data Source
 
 [NHS Cancer Waiting Times – NHS England](https://www.england.nhs.uk/statistics/statistical-work-areas/cancer-waiting-times/)
